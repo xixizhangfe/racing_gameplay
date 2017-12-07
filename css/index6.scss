@@ -1,0 +1,55 @@
+@import 'common';
+.banner_submitted {
+  width: 100%;
+  //height: 1.66rem;
+  object-fit: contain;
+}
+.box-brand_list{
+	margin-top: 0.1rem;
+}
+.layer-1 {
+  height: 0.20rem;
+  margin-left: 0.2rem;
+  font-size: 0.14rem;
+  font-weight: 600;
+  text-align: left;
+  color: #ffffff;
+}
+
+.popup_wrap{
+	position: fixed;
+	width: 2.50rem;
+	height: 0.49rem;
+	right: 0.1rem;
+	bottom: 0.61rem;
+	text-align: center;
+	font-size: 0;
+	line-height: 0;
+	.popup{
+		width: 2.50rem;
+  		height: 0.49rem;
+	}
+	.layer-2 {
+	  position: absolute;
+	  width: 1.96rem;
+	  height: 0.2rem;
+	  line-height: 0.2rem;
+	  top: 0.1rem;
+	  left: 0.16rem;
+	  font-family: PingFangSC;
+	  font-size: 0.14rem;
+	  color: #ffffff;
+	}
+	.popup_close{
+		position:absolute;
+		width: 0.18rem;
+  		height: 0.18rem;
+  		right: 0.1rem;
+  		top: 0.1rem;
+	}
+}
+.common_foot{
+	&.hide{
+		display:none;
+	}
+}

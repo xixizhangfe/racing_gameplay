@@ -1,0 +1,38 @@
+.common_foot{
+	display:box;
+ 	display: -webkit-box;     
+    display: -moz-box;     
+    display: flex-box; 
+    display: -ms-flexbox; 
+    display: flex;      
+    display: -webkit-flex;   
+    display: -ms-flexbox; 
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 0.50rem;
+	line-height: 0.5rem;
+	z-index: 2;
+	
+	font-family: PingFangSC;
+	font-size: 0.16rem;
+	font-weight: 600;
+	text-align: center;
+	color: #ffffff;
+	.rect{
+		flex: 1;
+		-webkit-flex: 1;
+		-ms-flex: 1;
+		-webkit-box-flex: 1;
+		background-image: linear-gradient(to bottom, #4f5481, #4a4e79);
+		background: -moz-linear-gradient(top,#4f5481, #4a4e79);
+		background: -o-linear-gradient(top,#4f5481, #4a4e79);
+		background: -webkit-linear-gradient(top, #4f5481, #4a4e79);
+		&:last-child{
+			background: linear-gradient(to top,#ff8b2f, #ff5606);
+			background: -moz-linear-gradient(top,#ff8b2f, #ff5606);
+			background: -o-linear-gradient(top,#ff8b2f, #ff5606);
+			background: -webkit-linear-gradient(top, #ff8b2f, #ff5606);
+		}
+	}
+}

@@ -1,0 +1,20 @@
+@import 'common.scss';
+.joy{
+	display: block;
+	margin: 1.2rem auto 0 auto;
+	width: 2rem;
+	height: 1.8rem;
+	margin-bottom: 0.51rem;
+}
+.desc{
+  margin: -0.42rem auto 0 auto;
+  line-height: 0.25rem;
+  font-family: PingFangSC;
+  font-size: 0.18rem;
+  font-weight: 600;
+  color: #ffffff;
+  text-align: center;
+}
+.box{
+  position: fixed;
+}

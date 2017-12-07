@@ -1,0 +1,179 @@
+@import 'base.scss';
+@import 'lib.scss';
+@import 'foot.scss';
+*{
+	font-family: PingFangSC;
+}
+body,html{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	//overflow:hidden;
+}
+main{
+	position:relative;
+}
+.common_bg {
+  //width: 3.75rem;
+  //height: 6.03rem;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  
+}
+.box-content{
+	position: absolute;
+	top: 0;
+	left: 0;
+	//width: 3.75rem;
+	width: 100%;
+	height: 100%;
+	//overflow:hidden;
+  	//height: 6.03rem;
+  	background: url(i/common-bg.png);
+  	background-size: cover;
+  	&.box-content-style-2{
+  		background: rgb(0, 0, 0);
+  	}
+}
+.box{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	bottom: 0.7rem;
+	&.box_style_2{
+		bottom: 0.3rem;
+	}
+	&.box_style_3{
+		bottom: 0.2rem;
+	}
+	text-align: center;
+	font-size: 0;
+	.Oval{
+		display: inline-block;
+		vertical-align: middle;
+	  width: 0.18rem;
+	  height: 0.18rem;
+	  margin-right: 0.06rem;
+	  border-radius: 50%;
+	  border: 1px solid #999999;
+	  font-size: 0.14rem;
+	  color: #999999;
+	  .Combined-Shape{
+	  	display: inline-block;
+	  }
+	}
+	.layer {
+		display: inline-block;
+		vertical-align: middle;
+	  font-size: 0.14rem;
+	  text-align: center;
+	  color: #999999;
+	}
+	
+}
+.me{
+	float: right;
+	margin-right: 0.13rem;
+	margin-top: 0.3rem;
+	&.me-style-2{
+		margin-top: -0.12rem;
+	}
+}
+.banner_camera,.banner_laptop,.banner_mobile{
+	//display: block;
+	width: 100%;
+	//height: 1.5rem;
+	margin-bottom: 0.1rem;
+}
+.clearfix:after {
+	content:'.';
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+
+//数字
+.s-1{
+	width: 0.059rem;
+	height: 0.15rem;
+}
+.s-2{
+	width: 0.096rem;
+	height: 0.15rem;
+}
+.s-3{
+	width: 0.091rem;
+	height: 0.15rem;
+}
+.s-4{
+	width: 0.1rem;
+	height: 0.15rem;
+}
+.s-5{
+	width: 0.097rem;
+	height: 0.15rem;
+}
+.s-6{
+	width: 0.092rem;
+	height: 0.15rem;
+}
+.s-7{
+	width: 0.103rem;
+	height: 0.15rem;
+}
+.s-8{
+	width: 0.091rem;
+	height: 0.15rem;
+}
+.s-9{
+	width: 0.092rem;
+	height: 0.15rem;
+}
+.s-10{
+	width: 0.136rem;
+	height: 0.15rem;
+}
+.big-1{
+	width: 0.138rem;
+	height: 0.35rem;
+}
+.big-2{
+	width: 0.224rem;
+	height: 0.35rem;
+}
+.big-3{
+	width: 0.212rem;
+	height: 0.35rem;
+}
+.big-4{
+	width: 0.233rem;
+	height: 0.35rem;
+}
+.big-5{
+	width: 0.227rem;
+	height: 0.35rem;
+}
+.big-6{
+	width: 0.214rem;
+	height: 0.35rem;
+}
+.big-7{
+	width: 0.241rem;
+	height: 0.35rem;
+}
+.big-8{
+	width: 0.212rem;
+	height: 0.35rem;
+}
+.big-9{
+	width: 0.214rem;
+	height: 0.35rem;
+}
+.big-10{
+	width: 0.318rem;
+	height: 0.35rem;
+}

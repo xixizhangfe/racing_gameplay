@@ -1,0 +1,5 @@
+<div class="box-head">
+	<a class="box-back"></a>
+	<span class="box-name">$name</span>
+	<a class="box-more"></a>
+</div>

@@ -1,0 +1,116 @@
+.brand-list{
+  	height: 2.20rem;
+  	padding-top: 0.13rem;
+  	padding-bottom: 0.04rem;
+  	//margin: 0 0.2rem;
+  	//
+  	line-height: 0;
+  	background-color: rgba(24, 28, 61, 0.8);
+  	.desc{
+  		text-align: center;
+  	}
+}
+.box-cell{
+	width: 3.5rem;
+	white-space: nowrap;
+	//text-align: center;
+}
+.brand-wrap{
+
+	position: relative;
+	display: inline-block;
+	line-height: 0;
+	font-size: 0;
+	text-align: center;
+	margin-right: .17rem;
+	&:first-child{
+		margin-bottom: 0.17rem;
+	}
+	.brand-s-num{
+		display: block;
+		margin: 0 auto 0.07rem auto;
+	}
+	.brand_name{
+		font-size: 0.12rem;
+		line-height: 0.17rem;
+		margin: 0.04rem auto 0 auto;
+	  	color: #ffffff;
+	}
+	.brand_count{
+		display: none;
+	}
+	.box-brand{
+		display: inline-block;
+		width: 0.5rem;
+		height: 0.5rem;
+		line-height: 0.5rem;
+		border-radius: 0.06rem;
+		text-align: center;
+		font-size: 0;
+		background: #ffffff;
+	}
+}
+// 第二种类型（不显示数字、品牌名）
+.brand_list_style_2{
+	font-size: 0;
+	//padding: 0 0 0.2rem 0;
+	.brand-list{
+		width: 1000%;
+		background: none;
+		padding-top: 0;
+		//margin-left: 0.1rem;
+	}
+	.brand-s-num, .brand_name{
+		display: none;
+	}
+	.brand-wrap{
+		&:first-child{
+			margin-top: 0.2rem;
+			margin-bottom: 0;
+		}
+		.brand_count{
+			display: none;
+			position: absolute;
+			top: -0.12rem;
+			right: -0.12rem;
+		   	width: 0.24rem;
+	  		height: 0.24rem;
+	  		line-height: 0.24rem;
+	  		border-radius: 50%;
+	  		background-color: #ff7e24;
+	  		font-size: 0.14rem;
+	  		color: #ffffff;
+	  		z-index: 4;
+		}
+	}
+}
+.swiper-item{
+	float: left;
+}
+.box-pagination{
+	
+	width: 100%;
+	//height: .3rem;
+	i{
+		position: absolute;
+		display: inline-block;
+		width: .2rem;
+		height: .46rem;
+		background-color:rgba(35, 39, 86, 0.8);
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: .06rem .12rem;
+		z-index: 999;
+		top:50%;
+		margin-top: -.15rem;
+	}
+	.pre{
+		left: 0;
+		background-image: url(../../css/i/arrow-left.png);
+
+	}
+	.next{
+		right: 0;
+		background-image: url(../../css/i/arrow-right.png);
+	}
+}

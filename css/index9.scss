@@ -1,0 +1,45 @@
+@import 'common.scss';
+.notice_list_empty{
+	display: block;
+  margin: 1.53rem auto 0 auto;
+	width: 2rem;
+	height: 2rem;
+}
+.desc{
+  margin: -0.42rem auto 0 auto;
+  line-height: 0.25rem;
+  font-family: PingFangSC;
+  font-size: 0.18rem;
+  font-weight: 600;
+  color: #ffffff;
+  text-align: center;
+}
+.banner_end{
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  //height: 2.58rem;
+  margin-top: 0.8rem;
+}
+.-orem-ips {
+  margin: 0.2rem;
+  //width: 3.35rem;
+  height: 2.40rem;
+  font-family: PingFangSC;
+  font-size: 0.14rem;
+  text-align: left;
+  color: #ffffff;
+  line-height: 0.2rem;
+  .text-style-1 {
+    display: inline-block;
+    margin-bottom: 0.1rem;
+    font-weight: 600;
+  }
+  li{
+    padding:.05rem;
+    font-size: .12rem;
+  }
+  ul{
+    padding-left: .2rem;
+  }
+}

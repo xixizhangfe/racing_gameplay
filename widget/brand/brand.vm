@@ -1,0 +1,138 @@
+<div class="brand-list clearfix "  >	
+	<div  >		
+		<div class="">
+			<div class="box-cell clearfix" >	
+				<div class="brand-wrap  " name="联想">
+			     	<img src="../css/i/s-1.png" srcset="../css/i/s-1@2x.png 2x, ../css/i/s-1@3x.png 3x" class="brand-s-num s-1">
+				    <img src="../css/i/lenovo.png" srcset="../css/i/lenovo@2x.png 2x, ../css/i/lenovo@3x.png 3x" class="box-brand">
+				    <span class="brand_count"></span>
+				    <div class="brand_name">联想</div>
+			    </div>
+			    <div class="brand-wrap  " name="苹果">
+			     	<img src="../css/i/s-2.png" srcset="../css/i/s-2@2x.png 2x, ../css/i/s-2@3x.png 3x" class="brand-s-num s-2">
+				    <img src="../css/i/apple.png" srcset="../css/i/apple@2x.png 2x, ../css/i/apple@3x.png 3x" class="box-brand">
+				     <span class="brand_count"></span>
+				     <div class="brand_name">苹果</div>
+			    </div>
+			    <div class="brand-wrap  " name="hp">
+			     	<img src="../css/i/s-3.png" srcset="../css/i/s-3@2x.png 2x, ../css/i/s-3@3x.png 3x" class="brand-s-num s-3">
+				    <img src="../css/i/lenovo.png" srcset="../css/i/lenovo@2x.png 2x, ../css/i/lenovo@3x.png 3x" class="box-brand">
+				     <span class="brand_count"></span>
+				    <div class="brand_name">hp</div>
+			    </div>
+				<div class="brand-wrap  " name="dell">
+			     	<img src="../css/i/s-4.png" srcset="../css/i/s-4@2x.png 2x, ../css/i/s-4@3x.png 3x" class="brand-s-num s-4">
+				    <img src="../css/i/apple.png" srcset="../css/i/apple@2x.png 2x, ../css/i/apple@3x.png 3x" class="box-brand">
+				     <span class="brand_count"></span>
+				     <div class="brand_name">dell</div>
+			    </div>
+				<div class="brand-wrap  " name="华为">
+			     	<img src="../css/i/s-5.png" srcset="../css/i/s-5@2x.png 2x, ../css/i/s-5@3x.png 3x" class="brand-s-num s-5">
+				    <img src="../css/i/lenovo.png" srcset="../css/i/lenovo@2x.png 2x, ../css/i/lenovo@3x.png 3x" class="box-brand">
+				     <span class="brand_count"></span>
+				    <div class="brand_name">华为</div>
+			    </div>
+			</div>
+			<div class="box-cell clearfix" >	
+				<div class="brand-wrap  " name="联1想">
+			     	<img src="../css/i/s-1.png" srcset="../css/i/s-1@2x.png 2x, ../css/i/s-1@3x.png 3x" class="brand-s-num s-1">
+				    <img src="../css/i/lenovo.png" srcset="../css/i/lenovo@2x.png 2x, ../css/i/lenovo@3x.png 3x" class="box-brand">
+				    <span class="brand_count"></span>
+				    <div class="brand_name">联1想</div>
+			    </div>
+			    <div class="brand-wrap  " name="苹1果">
+			     	<img src="../css/i/s-2.png" srcset="../css/i/s-2@2x.png 2x, ../css/i/s-2@3x.png 3x" class="brand-s-num s-2">
+				    <img src="../css/i/apple.png" srcset="../css/i/apple@2x.png 2x, ../css/i/apple@3x.png 3x" class="box-brand">
+				     <span class="brand_count"></span>
+				     <div class="brand_name">苹1果</div>
+			    </div>
+			    <div class="brand-wrap  " name="h1p">
+			     	<img src="../css/i/s-3.png" srcset="../css/i/s-3@2x.png 2x, ../css/i/s-3@3x.png 3x" class="brand-s-num s-3">
+				    <img src="../css/i/lenovo.png" srcset="../css/i/lenovo@2x.png 2x, ../css/i/lenovo@3x.png 3x" class="box-brand">
+				     <span class="brand_count"></span>
+				    <div class="brand_name">h1p</div>
+			    </div>
+				<div class="brand-wrap  " name="de1ll">
+			     	<img src="../css/i/s-4.png" srcset="../css/i/s-4@2x.png 2x, ../css/i/s-4@3x.png 3x" class="brand-s-num s-4">
+				    <img src="../css/i/apple.png" srcset="../css/i/apple@2x.png 2x, ../css/i/apple@3x.png 3x" class="box-brand">
+				     <span class="brand_count"></span>
+				     <div class="brand_name">de1ll</div>
+			    </div>
+				<div class="brand-wrap  " name="华1为">
+			     	<img src="../css/i/s-5.png" srcset="../css/i/s-5@2x.png 2x, ../css/i/s-5@3x.png 3x" class="brand-s-num s-5">
+				    <img src="../css/i/lenovo.png" srcset="../css/i/lenovo@2x.png 2x, ../css/i/lenovo@3x.png 3x" class="box-brand">
+				     <span class="brand_count"></span>
+				    <div class="brand_name">华1为</div>
+			    </div>
+			</div>
+		</div>
+		
+		<!-- <div class="swiper-slide">
+			<div class="box-cell" >	
+				<div class="brand-wrap">
+			     	<img src="../css/i/s-1.png" srcset="../css/i/s-1@2x.png 2x, ../css/i/s-1@3x.png 3x" class="brand-s-num s-1">
+				    <img src="../css/i/lenovo.png" srcset="../css/i/lenovo@2x.png 2x, ../css/i/lenovo@3x.png 3x" class="box-brand">
+				    <span class="brand_count">3</span>
+				    <div class="brand_name">联想</div>
+			    </div>
+			    <div class="brand-wrap">
+			     	<img src="../css/i/s-2.png" srcset="../css/i/s-2@2x.png 2x, ../css/i/s-2@3x.png 3x" class="brand-s-num s-2">
+				    <img src="../css/i/apple.png" srcset="../css/i/apple@2x.png 2x, ../css/i/apple@3x.png 3x" class="box-brand">
+				     <span class="brand_count">3</span>
+				     <div class="brand_name">苹果</div>
+			    </div>
+			    <div class="brand-wrap">
+			     	<img src="../css/i/s-3.png" srcset="../css/i/s-3@2x.png 2x, ../css/i/s-3@3x.png 3x" class="brand-s-num s-3">
+				    <img src="../css/i/lenovo.png" srcset="../css/i/lenovo@2x.png 2x, ../css/i/lenovo@3x.png 3x" class="box-brand">
+				     <span class="brand_count">3</span>
+				    <div class="brand_name">联想</div>
+			    </div>
+				<div class="brand-wrap">
+			     	<img src="../css/i/s-4.png" srcset="../css/i/s-4@2x.png 2x, ../css/i/s-4@3x.png 3x" class="brand-s-num s-4">
+				    <img src="../css/i/apple.png" srcset="../css/i/apple@2x.png 2x, ../css/i/apple@3x.png 3x" class="box-brand">
+				     <span class="brand_count">3</span>
+				     <div class="brand_name">苹果</div>
+			    </div>
+				<div class="brand-wrap">
+			     	<img src="../css/i/s-5.png" srcset="../css/i/s-5@2x.png 2x, ../css/i/s-5@3x.png 3x" class="brand-s-num s-5">
+				    <img src="../css/i/lenovo.png" srcset="../css/i/lenovo@2x.png 2x, ../css/i/lenovo@3x.png 3x" class="box-brand">
+				     <span class="brand_count">3</span>
+				    <div class="brand_name">联想</div>
+			    </div>
+			</div>
+			<div class="box-cell">	    
+				<div class="brand-wrap">
+			     	<img src="../css/i/s-6.png" srcset="../css/i/s-6@2x.png 2x, ../css/i/s-6@3x.png 3x" class="brand-s-num s-6">
+				    <img src="../css/i/apple.png" srcset="../css/i/apple@2x.png 2x, ../css/i/apple@3x.png 3x" class="box-brand">
+				     <span class="brand_count">3</span>
+				     <div class="brand_name">苹果</div>
+			    </div>
+				<div class="brand-wrap">
+			     	<img src="../css/i/s-7.png" srcset="../css/i/s-7@2x.png 2x, ../css/i/s-7@3x.png 3x" class="brand-s-num s-7">
+				    <img src="../css/i/lenovo.png" srcset="../css/i/lenovo@2x.png 2x, ../css/i/lenovo@3x.png 3x" class="box-brand">
+				     <span class="brand_count">3</span>
+				    <div class="brand_name">联想</div>
+			    </div>
+				<div class="brand-wrap">
+			     	<img src="../css/i/s-8.png" srcset="../css/i/s-8@2x.png 2x, ../css/i/s-8@3x.png 3x" class="brand-s-num s-8">
+				    <img src="../css/i/apple.png" srcset="../css/i/apple@2x.png 2x, ../css/i/apple@3x.png 3x" class="box-brand">
+				     <span class="brand_count">3</span>
+				     <div class="brand_name">苹果</div>
+			    </div>
+				<div class="brand-wrap">
+			     	<img src="../css/i/s-9.png" srcset="../css/i/s-9@2x.png 2x, ../css/i/s-9@3x.png 3x" class="brand-s-num s-9">
+				    <img src="../css/i/lenovo.png" srcset="../css/i/lenovo@2x.png 2x, ../css/i/lenovo@3x.png 3x" class="box-brand">
+				     <span class="brand_count">3</span>
+				    <div class="brand_name">联想</div>
+			    </div>
+				<div class="brand-wrap">
+			     	<img src="../css/i/s-10.png" srcset="../css/i/s-10@2x.png 2x, ../css/i/s-10@3x.png 3x" class="brand-s-num s-10">
+				    <img src="../css/i/apple.png" srcset="../css/i/apple@2x.png 2x, ../css/i/apple@3x.png 3x" class="box-brand">
+				     <span class="brand_count">3</span>
+				     <div class="brand_name">苹果</div>
+			    </div>
+			</div>
+		</div> -->
+		
+	</div>
+</div>

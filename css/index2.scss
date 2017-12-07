@@ -1,0 +1,108 @@
+@import 'common.scss';
+.main_banner{
+	width: 100%;
+	position: relative;
+	z-index: 0;
+	//height: 1.69rem;
+}
+.me.me-style-2{
+	position: relative;
+	z-index: 1;
+}
+.box-type{
+	position:relative;
+	font-size: 0;
+	height: 1rem;
+	margin-bottom: 0.24rem;
+	.entrance_frame{
+		position: absolute;
+		left: 0.2rem;
+		top: 0.1rem;
+		width: 3.35rem;
+		height: 0.73rem;
+	}
+	.entrance_box{
+		position: absolute;
+		width: 1rem;
+		height: 1rem;
+		margin-top: 0.07rem;
+		margin-left: 0.1rem;
+		z-index: 3;
+	}
+	.view-wrap{
+		position: absolute;
+		display: inline-block;
+		top: 0.7rem;
+		margin-left: 0.49rem;
+		text-align: center;
+		font-size: 0.14rem;
+		z-index: 1;
+		color: #ffffff;
+		.view-text{
+			position: absolute;
+			display: inline-block;
+	    width: 1.61rem;
+	    text-align: center;
+	    left: 50%;
+	    top: 50%;
+	    -webkit-transform: translate(-50%, -50%);
+	    transform: translate(-50%, -50%);
+	    font-size: 0.14rem;
+		}
+		.rank_view_frame{
+			width: 1.61rem;
+			height: 0.26rem;
+		}
+	}
+	.box-type-text{
+		position: absolute;
+		margin-left: 1.18rem;
+		top: 0.03rem;
+		.text-date{
+			font-size: 0.14rem;
+			color: #2dddff;
+			margin-bottom: 0.07rem;
+		}
+		.text-title{
+			font-size: 0.18rem;
+			color: #ffffff;
+		}
+	}
+	.go_frame{
+		position: absolute;
+		width: 1.51rem;
+		height: 0.26rem;
+		top: 0.52rem;
+		right: 0.1rem;
+	}
+}
+.box-type-1{
+	margin-top:0.28rem;
+}
+
+.box-type-4 {
+	text-align: center;
+	font-size: 0;
+	padding-bottom: 0.2rem;
+	.Oval{
+		display: inline-block;
+		vertical-align: middle;
+	  width: 0.18rem;
+	  height: 0.18rem;
+	  margin-right: 0.06rem;
+	  border-radius: 50%;
+	  border: 1px solid #999999;
+	  font-size: 0.14rem;
+	  color: #999999;
+	  .Combined-Shape{
+	  	display: inline-block;
+	  }
+	}
+	.layer {
+		display: inline-block;
+		vertical-align: middle;
+	  font-size: 0.14rem;
+	  text-align: center;
+	  color: #999999;
+	}
+}
